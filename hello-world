@@ -1,0 +1,45 @@
+<?php
+
+echo "Hello World !" ;
+
+?>
+
+print("Hello World !")
+
+console.log("Hello World !")
+
+int main ()
+{
+   std::cout<<"Hello World!"
+   return 0;
+}
+
+class felab
+{
+ public static void main (String [] args)
+ {
+  System.out.println("Hello World !");
+ }
+}
+
+#include<stdio.h>
+
+int main (void)
+{
+  print("Hello World !");
+  return 0;
+}
+
+puts 'Hello World'
+
+using System;
+namespace helloworld
+{
+  class Helloworld
+   {
+      static void Main (string[] args)
+       {
+           Concole.Writeline("Hello World !");
+       }
+   }
+}
